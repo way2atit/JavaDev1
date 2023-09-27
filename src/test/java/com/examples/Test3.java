@@ -10,6 +10,12 @@ public class Test3 {
 		int j =10;
 		int multi = i*j;
 		System.out.println("Multi :" +multi );
+
+
+		int i = 10;
+		int j =10;
+		int sub = i-j;
+		System.out.println("sub :" +sub );
 		
 	}
 
